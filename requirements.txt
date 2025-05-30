@@ -1,0 +1,8 @@
+Bio==1.8.0
+biopython==1.84
+joblib==1.4.2
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+scikit_learn==1.6.1
+scipy==1.15.3
